@@ -1,3 +1,5 @@
+#include "get_next_line.h"
+
 int	ft_strlen(char *s)
 {
 	int	i;
